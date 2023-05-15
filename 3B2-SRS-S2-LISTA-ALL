@@ -3,62 +3,45 @@
 LINKDOFILME
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]SERIE[/B][/COLOR][/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - SD DUB[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]Echo 3[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E01[COLOR yellow] -> [COLOR white]EPISÓDIO 01[/B][/COLOR]
-http://acsc.cc:80/series/PauloManu1/1dCBh22022/185633.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E02[COLOR yellow] -> [COLOR white]EPISÓDIO 01[/B][/COLOR]
-http://acsc.cc:80/series/PauloManu1/1dCBh22022/185634.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E03[COLOR yellow] -> [COLOR white]EPISÓDIO 01[/B][/COLOR]
-http://acsc.cc:80/series/PauloManu1/1dCBh22022/185635.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E04[COLOR yellow] -> [COLOR white]EPISÓDIO 01[/B][/COLOR]
-http://acsc.cc:80/series/PauloManu1/1dCBh22022/185636.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E05[COLOR yellow] -> [COLOR white]EPISÓDIO 01[/B][/COLOR]
-http://acsc.cc:80/series/PauloManu1/1dCBh22022/185637.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E06[COLOR yellow] -> [COLOR white]EPISÓDIO 01[/B][/COLOR]
-http://acsc.cc:80/series/PauloManu1/1dCBh22022/185638.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E07[COLOR yellow] -> [COLOR white]EPISÓDIO 01[/B][/COLOR]
-http://acsc.cc:80/series/PauloManu1/1dCBh22022/185639.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E08[COLOR yellow] -> [COLOR white]EPISÓDIO 01[/B][/COLOR]
-http://acsc.cc:80/series/PauloManu1/1dCBh22022/185640.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E09[COLOR yellow] -> [COLOR white]EPISÓDIO 01[/B][/COLOR]
-http://acsc.cc:80/series/PauloManu1/1dCBh22022/185641.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E10[COLOR yellow] -> [COLOR white]EPISÓDIO 01[/B][/COLOR]
-http://acsc.cc:80/series/PauloManu1/1dCBh22022/185642.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E11[COLOR yellow] -> [COLOR white]EPISÓDIO 01[/B][/COLOR]
-http://acsc.cc:80/series/PauloManu1/1dCBh22022/185643.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E12[COLOR yellow] -> [COLOR white]EPISÓDIO 01[/B][/COLOR]
-http://acsc.cc:80/series/PauloManu1/1dCBh22022/185644.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E13[COLOR yellow] -> [COLOR white]EPISÓDIO 01[/B][/COLOR]
-http://acsc.cc:80/series/PauloManu1/1dCBh22022/185645.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E14[COLOR yellow] -> [COLOR white]EPISÓDIO 01[/B][/COLOR]
-http://acsc.cc:80/series/PauloManu1/1dCBh22022/185646.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E15[COLOR yellow] -> [COLOR white]EPISÓDIO 01[/B][/COLOR]
-http://acsc.cc:80/series/PauloManu1/1dCBh22022/185647.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E16[COLOR yellow] -> [COLOR white]EPISÓDIO 01[/B][/COLOR]
-http://acsc.cc:80/series/PauloManu1/1dCBh22022/185648.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E17[COLOR yellow] -> [COLOR white]EPISÓDIO 01[/B][/COLOR]
-http://acsc.cc:80/series/PauloManu1/1dCBh22022/185649.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E18[COLOR yellow] -> [COLOR white]EPISÓDIO 01[/B][/COLOR]
-http://acsc.cc:80/series/PauloManu1/1dCBh22022/185650.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E19[COLOR yellow] -> [COLOR white]EPISÓDIO 01[/B][/COLOR]
-http://acsc.cc:80/series/PauloManu1/1dCBh22022/185651.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E20[COLOR yellow] -> [COLOR white]EPISÓDIO 01[/B][/COLOR]
-http://acsc.cc:80/series/PauloManu1/1dCBh22022/185652.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/bUR8V9YjmPyQSBjPJV7Pi6isZID.jpg" group-title="[COLOR white][B]A Lei e o Crime (2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E21[COLOR yellow] -> [COLOR white]EPISÓDIO 01[/B][/COLOR]
-http://acsc.cc:80/series/PauloManu1/1dCBh22022/185653.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - HD DUB[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E01[COLOR yellow] -> [COLOR white]Flyaway[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/180716.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E02[COLOR yellow] -> [COLOR white]Tora Bora na Cidade[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/180717.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E03[COLOR yellow] -> [COLOR white]O Apostador[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/180718.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E04[COLOR yellow] -> [COLOR white]Rio Acima[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/181253.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E05[COLOR yellow] -> [COLOR white]Nós Rejeitamos a Sua Influência[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/181889.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E06[COLOR yellow] -> [COLOR white]Habeas Pancadus[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/182482.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E07[COLOR yellow] -> [COLOR white]Vermelho é Positivo, Preto é Negativo[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/183276.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E08[COLOR yellow] -> [COLOR white]Assuntos de Família[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/183277.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E09[COLOR yellow] -> [COLOR white]Terra Queimada[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/184391.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E10[COLOR yellow] -> [COLOR white]Calor[/B][/COLOR]
+http://acsc.cc:80/series/jh0082772/R2772r/185113.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]
 LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
