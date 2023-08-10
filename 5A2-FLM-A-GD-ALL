@@ -1,9 +1,3 @@
-#EXTM3U
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" ,[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Balada do Pistoleiro (1995)[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/5:/+%F0%9F%8E%AC%20FILMES/Por%20Ordem%20(A-Z)/A/A%20Balada%20do%20Pistoleiro%20(1995)%20Bluray%201080p%20Dolby%205.1%20(Dual%20audio).mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Batalha de Riddick (2004) FHD[/B][/COLOR]
@@ -41,7 +35,7 @@ https://luminart.ls.lsnew.workers.dev/5:/+%F0%9F%8E%AC%20FILMES/Por%20Ordem%20(A
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Espada Era a Lei (1963) FHD[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/5:/+%F0%9F%8E%AC%20FILMES/Por%20Ordem%20(A-Z)/A/A%20Espada%20Era%20a%20Lei%20[1963]%201080p%20Dual%20%C3%81udio.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]À Espera de um Milagre (1999) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/5:/+%F0%9F%8E%AC%20FILMES/Por%20Ordem%20(A-Z)/A/%C3%80%20Espera%20de%20um%20Milagre%20(1999)%20BrRip%201080p%20Dual%20Audio.mkv
+https://luminart.ls.lsnew.workers.dev/5:/+%F0%9F%8E%AC%20FILMES/Por%20Ordem%20(A-Z)/A/À%20Espera%20de%20um%20Milagre%20(1999)%20BrRip%201080p%20Dual%20Audio.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Experiência (1995) FHD[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/5:/+%F0%9F%8E%AC%20FILMES/Por%20Ordem%20(A-Z)/A/A%20Experi%C3%AAncia%20[1995]%20BluRay%201080p%20Dual%20%C3%81udio%20[Remasterizado].mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Experiência 2 - A Mutação (1998) FHD[/B][/COLOR]
@@ -383,11 +377,3 @@ https://luminart.ls.lsnew.workers.dev/5:/+%F0%9F%8E%AC%20FILMES/Por%20Ordem%20(A
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Estrada (2009) [/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/5:/+%F0%9F%8E%AC%20FILMES/Por%20Ordem%20(A-Z)/A/The%20Road%20[2009]%20A%20Estrada%20Dublado.mp4
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR black][B].[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
