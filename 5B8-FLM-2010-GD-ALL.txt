@@ -682,7 +682,7 @@ https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Os%20Mercen%C3%A1rios%20-%202010%20-%201080p%20-%20HEVC%20-%20265.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Os Mercenários (2010) FHD[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Os%20Mercen%C3%A1rios%20-%202010%20-%201080p%20-%20Open-Matte%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Os Mercenários (2 (2012) FHD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Os Mercenários 2 (2012) FHD[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Os%20Mercen%C3%A1rios%202%20-%202012%20-%201080p%20-%20HEVC%20-%20265.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Os Mercenários 3 (2014) FHD[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Os%20Mercen%C3%A1rios%203%20-%202014%20-%201080p%20-%20HEVC%20-%20265.mkv
@@ -772,7 +772,7 @@ https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Rastro%20de%20Maldade%20-%202016%20-%201080p.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Red - Aposentados e Perigosos (2010) HD[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Red%20-%20Aposentados%20e%20Perigosos%20-%202010%20-%20720p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Red (2 - Aposentados e Ainda Mais Perigosos (2013) HD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Red 2 - Aposentados e Ainda Mais Perigosos (2013) HD[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Red%202%20-%20Aposentados%20e%20Ainda%20Mais%20Perigosos%20-%202013%20-%20720p.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Regresso do Mal (2016) HD[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Regresso%20do%20Mal%20-%202016%20-%20720p.mkv
@@ -812,7 +812,7 @@ https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Se%20Beber,%20N%C3%A3o%20Case!%20Parte%20III%20-%202013%20-%201080p%20-%20HEVC%20-%20265.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Segredos De Um Funeral (2010) FHD[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Segredos.De.Um.Funeral.2010.1080p.HMAX.WEB-DL.DD5.1.H264.Dual-C76.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Segurança de Shopping (2 (2015) FHD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Segurança de Shopping 2 (2015) FHD[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Seguran%C3%A7a%20de%20Shopping%202%20-%202015%20-%201080p%20-%20HEVC%20-%20265.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Seis Vezes Confusão (2019) FHD[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Seis%20Vezes%20Confus%C3%A3o%20-%202019%20-%201080p.mkv
@@ -850,7 +850,7 @@ https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Stuber%20A%20Corrida%20Maluca%20-%202019%20-%201080p.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Sully, O Herói do Rio Hudson (2016) FHD[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Sully,%20O%20Her%C3%B3i%20do%20Rio%20Hudson%20-%202016%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Super Tiras (2 (2018) FHD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Super Tiras 2 (2018) FHD[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Super%20Tiras%202%20-%202018%20-%201080p%20-%20HEVC%20-%20265.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Ta Tudo Incluido (2019) FHD[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Ta.Tudo.Incluido.2019.1080p.HMAX.WEB-DL.DD5.1.H264.Dual-C76.mkv
@@ -862,7 +862,7 @@ https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Te%20Pego%20na%20Sa%C3%ADda%20-%202017%20-%201080p.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Ted (2012) FHD[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Ted%20-%202012%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Ted (2 (2015) FHD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Ted 2 (2015) FHD[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Ted%202%20-%202015%20-%201080p.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Terapia de Risco (2013) FHD[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Terapia.de.Risco.2013.1080p.HMAX.WEB-DL.DD5.1.H264.Dual-C76.mkv
