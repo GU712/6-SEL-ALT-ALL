@@ -196,7 +196,7 @@ https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Bem-vindos%20a%20Marwen%20-%202018%20-%201080p%20-%20HEVC%20-%20265.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Birdman (2014) FHD[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Birdman%20-%202014%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Blade Runner (2049 (2017) FHD[/B][/COLOR]
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Blade Runner 2049 (2017) FHD[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Blade%20Runner%202049%20-%202017%20-%201080p.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Bohemian Rhapsody (2018) FHD[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Bohemian%20Rhapsody%20-%202018%20-%201080p.mkv
