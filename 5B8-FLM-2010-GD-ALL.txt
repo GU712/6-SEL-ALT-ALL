@@ -920,60 +920,6 @@ https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Um%20Sal%C3%A3o%20do%20Barulho%203%20-%202016%20-%20720p.mkv
 #EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Um Santo Vizinho (2015) FHD[/B][/COLOR]
 https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Um%20Santo%20Vizinho%20-%202015%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Um Senhor Estagiário (2015) HD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Um%20Senhor%20Estagi%C3%A1rio%20-%202015%20-%20720p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Um Alibi Perfeito (2014) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Um.Alibi.Perfeito.2014.1080p.HMAX.WEB-DL.DD5.1.H264.Dual-C76.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Um Final de Semana em Hyde Park (2012) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Um.Final.de.Semana.em.Hyde.Park.2012.1080p.HMAX.WEB-DL.DD5.1.H264.Dual-C76.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Uma Caminhada na Floresta (2016) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Uma%20Caminhada%20na%20Floresta%20-%202016%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Uma Dupla Genial (2013) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Uma%20Dupla%20Genial%20-%202013%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Uma Família em Apuros (2013) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Uma%20Fam%C3%ADlia%20em%20Apuros%20-%202013%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Uma Longa Queda (2014) HD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Uma%20Longa%20Queda%20-%202014%20-%20720p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Uma Longa Viagem (2015) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Uma%20Longa%20Viagem%20-%202015%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Uma Noite no Museu 3 - O Segredo da Tumba (2014) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Uma%20Noite%20no%20Museu%203%20-%20O%20Segredo%20da%20Tumba%20-%202014%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Uma Nova Chance (2018) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Uma%20Nova%20Chance%20-%202018%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Uma Nova Chance (2018) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Uma.Nova.Chance.2018.1080p.HMAX.WEB-DL.DD5.1.x264-DUAL-THR.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]VelociPastor (2018) FHD - LEG[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/VelociPastor%20-%202018%20%20-%201080p%20-%20Legendado.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Vicio Inerente (2014) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Vicio.Inerente.2014.1080p.HMAX.WEB-DL.DD5.1.H264.Dual-C76.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Vingança Ao Anoitecer (2015) HD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Vingan%C3%A7a%20Ao%20Anoitecer%20-%202015%20-%20720p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Vizinhos (2014) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Vizinhos%20-%202014%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Vizinhos (2 (2016) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Vizinhos%202%20-%202016%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Vizinhos Imediatos de 3º Grau (2012) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Vizinhos%20Imediatos%20de%203%C2%B0%20Grau%20-%202012%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Vovô Sem Vergonha (Sem Cortes) (2013) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Vov%C3%B4%20Sem%20Vergonha%20(Sem%20Cortes)%20-%202013%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Vovó    Zona 3 - Tal Pai Tal Filho (2011) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Vov%C3%B3...%20Zona%203%20-%20Tal%20Pai%20Tal%20Filho%20-%202011%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Warcraft - O Primeiro Encontro de dois Mundos (2016) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Warcraft%20-%20O%20Primeiro%20Encontro%20de%20dois%20Mundos%20-%202016%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Wilson (2017) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Wilson%20-%202017%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Winter, o Golfinho (2011) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Winter,%20o%20Golfinho%20-%202011%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Winter, o Golfinho 2 (2014) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Winter,%20o%20Golfinho%202%20-%202014%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Zerando a Vida (2016) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Zerando%20a%20Vida%20-%202016%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Zoolander 2 (2016) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Zoolander%202%20-%202016%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Zumbilândia - Atire Duas Vezes (2019) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Zumbil%C3%A2ndia%20-%20Atire%20Duas%20Vezes%20-%202019%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Zumbilândia - Atire Duas Vezes (2019) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Zumbil%C3%A2ndia%20-%20Atire%20Duas%20Vezes%20-%202019%20-%201080p.mkv
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR black][B].[/B][/COLOR]
