@@ -4,60 +4,474 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LINKDOFILME
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Um Senhor Estagiário (2015) HD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Um%20Senhor%20Estagi%C3%A1rio%20-%202015%20-%20720p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Um Alibi Perfeito (2014) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Um.Alibi.Perfeito.2014.1080p.HMAX.WEB-DL.DD5.1.H264.Dual-C76.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Um Final de Semana em Hyde Park (2012) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Um.Final.de.Semana.em.Hyde.Park.2012.1080p.HMAX.WEB-DL.DD5.1.H264.Dual-C76.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Uma Caminhada na Floresta (2016) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Uma%20Caminhada%20na%20Floresta%20-%202016%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Uma Dupla Genial (2013) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Uma%20Dupla%20Genial%20-%202013%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Uma Família em Apuros (2013) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Uma%20Fam%C3%ADlia%20em%20Apuros%20-%202013%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Uma Longa Queda (2014) HD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Uma%20Longa%20Queda%20-%202014%20-%20720p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Uma Longa Viagem (2015) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Uma%20Longa%20Viagem%20-%202015%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Uma Noite no Museu 3 - O Segredo da Tumba (2014) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Uma%20Noite%20no%20Museu%203%20-%20O%20Segredo%20da%20Tumba%20-%202014%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Uma Nova Chance (2018) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Uma%20Nova%20Chance%20-%202018%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Uma Nova Chance (2018) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Uma.Nova.Chance.2018.1080p.HMAX.WEB-DL.DD5.1.x264-DUAL-THR.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]VelociPastor (2018) FHD - LEG[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/VelociPastor%20-%202018%20%20-%201080p%20-%20Legendado.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Vicio Inerente (2014) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Vicio.Inerente.2014.1080p.HMAX.WEB-DL.DD5.1.H264.Dual-C76.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Vingança Ao Anoitecer (2015) HD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Vingan%C3%A7a%20Ao%20Anoitecer%20-%202015%20-%20720p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Vizinhos (2014) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Vizinhos%20-%202014%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Vizinhos (2 (2016) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Vizinhos%202%20-%202016%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Vizinhos Imediatos de 3º Grau (2012) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Vizinhos%20Imediatos%20de%203%C2%B0%20Grau%20-%202012%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Vovô Sem Vergonha (Sem Cortes) (2013) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Vov%C3%B4%20Sem%20Vergonha%20(Sem%20Cortes)%20-%202013%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Vovó    Zona 3 - Tal Pai Tal Filho (2011) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Vov%C3%B3...%20Zona%203%20-%20Tal%20Pai%20Tal%20Filho%20-%202011%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Warcraft - O Primeiro Encontro de dois Mundos (2016) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Warcraft%20-%20O%20Primeiro%20Encontro%20de%20dois%20Mundos%20-%202016%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Wilson (2017) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Wilson%20-%202017%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Winter, o Golfinho (2011) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Winter,%20o%20Golfinho%20-%202011%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Winter, o Golfinho 2 (2014) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Winter,%20o%20Golfinho%202%20-%202014%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Zerando a Vida (2016) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Zerando%20a%20Vida%20-%202016%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Zoolander 2 (2016) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Zoolander%202%20-%202016%20-%201080p.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Zumbilândia - Atire Duas Vezes (2019) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Zumbil%C3%A2ndia%20-%20Atire%20Duas%20Vezes%20-%202019%20-%201080p%20-%20HEVC%20-%20265.mkv
-#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Zumbilândia - Atire Duas Vezes (2019) FHD[/B][/COLOR]
-https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Zumbil%C3%A2ndia%20-%20Atire%20Duas%20Vezes%20-%202019%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]007 Contra Spectre (2015) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/007%20Contra%20Spectre%20-%202015%20-%201080p,%20Daniel%20Craig.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]007 Operação Skyfall (2012) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/007%20Opera%C3%A7%C3%A3o%20Skyfall%20-%202012%20-%201080p,%20Daniel%20Craig.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]127 Horas (2010) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/127%20Horas%20-%202010%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]1917 (2019) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/1917%20-%202019%20-%201080p%20-%20H265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]1917 (2019) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/1917%20-%202019%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]22 Milhas (2018) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/22%20Milhas%20-%202018%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]300 - A Ascensão do Império (2014) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/300%20-%20A%20Ascens%C3%A3o%20do%20Imp%C3%A9rio%20-%202014%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]47 Ronins (2013) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/47%20Ronins%20-%202013%20-%201080p%20-%20H265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]6 Balas (2013) HD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/6%20Balas%20-%202013%20-%20720p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]6- Os Vingadores (2012) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/6-%20Os.Vingadores.2012.BluRay.REMUX.1080p.DualAudio.DTS-HD.MA.H264-SpartacusBR.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]90 Minutos no Paraíso (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/90%20Minutos%20no%20Para%C3%ADso%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Batalha das Correntes (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Batalha%20das%20Correntes%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Bota de Natal (2018) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Bota%20de%20Natal%20-%202018%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Cabana (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Cabana%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Casa Caiu - Um Cassino na Vizinhança (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Casa%20Caiu%20-%20Um%20Cassino%20na%20Vizinhan%C3%A7a%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Casa dos Sonhos (2011) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Casa%20dos%20Sonhos%20-%202011%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Chefa (2016) HD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Chefa%20-%202016%20-%20720p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Colheita (2018) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Colheita%20-%202018%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Colonia (2013) HD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Colonia%20-%202013%20-%20720p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Entrevista (2014) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Entrevista%20-%202014%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Estrada Interior (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Estrada%20Interior%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Grande Aposta (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Grande%20Aposta%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Grande Muralha (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Grande%20Muralha%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A História Real de um Assassino Falso (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Hist%C3%B3ria%20Real%20de%20um%20Assassino%20Falso%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Incrível Aventura de Rick Baker (2018) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Incr%C3%ADvel%20Aventura%20de%20Rick%20Baker%20-%202018%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Intrometida (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Intrometida%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Invenção de Hugo Cabret (2011) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Inven%C3%A7%C3%A3o%20de%20Hugo%20Cabret%20-%202011%20-%201080p%20-%20H265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Justiceira (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Justiceira%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Lei da Noite (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Lei%20da%20Noite%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Lenda de Barney Thomson (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Lenda%20de%20Barney%20Thomson%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Lenda de Tarzan (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Lenda%20de%20Tarzan%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Maldição de Isabelle (2019) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Maldi%C3%A7%C3%A3o%20de%20Isabelle%20-%202019%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Mentira (2010) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Mentira%20-%202010%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Mentira (2010) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Mentira%20-%202010%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Mulher de Preto 2 - Anjo da Morte (2014) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Mulher%20de%20Preto%202%20-%20Anjo%20da%20Morte%20-%202014%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Mulher Mais Odiada dos Estados Unidos (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Mulher%20Mais%20Odiada%20dos%20Estados%20Unidos%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Múmia (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20M%C3%BAmia%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Origem (2010) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Origem%20-%202010%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Outra Terra (2011) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Outra%20Terra%20-%202011%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Sacada (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Sacada%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Subida (2019) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Subida%20-%202019%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Travessia (2015) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Travessia%20-%202015%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Última Gargalhada (2019) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20%C3%9Altima%20Gargalhada%20-%202019%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Viagem (2012) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Viagem%20-%202012%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Vida Secreta de Walter Mitty (2013) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A%20Vida%20Secreta%20de%20Walter%20Mitty%20-%202013%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Bota De Natal (2018) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A.Bota.De.Natal.2018.1080p.HMAX.WEB-DL.DD5.1.H264.Dual-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Cidade dos Piratas (2018) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A.Cidade.dos.Piratas.2018.1080p.HDTV.Nacional.ULTRASPACE.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Mulher De Preto 2 Anjo Da Morte (2015) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A.Mulher.De.Preto.2.Anjo.Da.Morte.2015.1080p.HMAX.WEB-DL.DD5.1.H264.Dual-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Princesa Encantada O Reino Da Música (2019) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A.Princesa.Encantada.O.Reino.Da.M%C3%BAsica.2019.1080p.HMAX.WEB-DL.DD5.1.H264.Dual-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]A Sogra (2005) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/A.Sogra.2005.1080p.HMAX.WEB-DL.DD5.1.H264.Dual-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Abdução - Alien Abduction (2014) HD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Abdu%C3%A7%C3%A3o%20-%20Alien%20Abduction%20-%202014%20-%20720p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Acertando o Passo (2018) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Acertando%20o%20Passo%20-%202018%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Adultos Inexperientes (2015) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Adultos%20Inexperientes%20-%202015%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Aladdin (2019) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Aladdin%20-%202019%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Aliança do Crime (2016) HD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Alian%C3%A7a%20do%20Crime%20-%202016%20-%20720p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Alien 5 - Covenant (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Alien%205%20-%20Covenant%20-%202017%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Alvo Duplo (2013) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Alvo%20Duplo%20-%202013%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Amigos Inseparáveis (2012) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Amigos%20Insepar%C3%A1veis%20-%202012%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Amigos Inseparaveis (2013) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Amigos.Inseparaveis.2013.1080p.HMAX.WEB-DL.DD2.0.H264.Dual-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Amizade Colorida (2011) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Amizade%20Colorida%20-%202011%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Amor e a Máfia (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Amor%20e%20a%20M%C3%A1fia%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Amor e a Mafia (2018) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Amor.e.a.Mafia.2018.1080p.HMAX.WEB-DL.DD5.1.H264.Dual-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Animais Fantásticos e Onde Habitam (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Animais%20Fant%C3%A1sticos%20e%20Onde%20Habitam%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Anjos da Lei (2012) HD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Anjos%20da%20Lei%20-%202012%20-%20720p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Anjos da Noite - Guerras de Sangue (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Anjos%20da%20Noite%20-%20Guerras%20de%20Sangue%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Anjos da Noite 4 - O Despertar (2012) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Anjos%20da%20Noite%204%20-%20O%20Despertar%20-%202012%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Anomalisa (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Anomalisa%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Apagar Historico (2013) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Apagar%20Historico%20-%202013%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Apenas o Começo (2018) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Apenas%20o%20Come%C3%A7o%20-%202018%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Apollo 11 (2019) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Apollo%2011%20-%202019%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Aprendendo com a Vovó (2016) HD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Aprendendo%20com%20a%20Vov%C3%B3%20-%202016%20-%20720p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Aproximando-se do Desconhecido (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Aproximando-se%20do%20Desconhecido%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Aqui em Casa Tudo Bem (2018) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Aqui%20em%20Casa%20Tudo%20Bem%20-%202018%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Aqui Em Casa Tudo Bem (2018) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Aqui.Em.Casa.Tudo.Bem.2018.1080p.HMAX.WEB-DL.DD5.1.H264.Dual-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Área 51 (2015) HD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/%C3%81rea%2051%20-%202015%20-%20720p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Arizona (2018) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Arizona%20-%202018%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Ártico (2019) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/%C3%81rtico%20-%202019%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]As Aventuras de Pi (2012) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/As%20Aventuras%20de%20Pi%20-%202012%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]As Aventuras de um Virgem (2010) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/As%20Aventuras%20de%20um%20Virgem%20-%202010%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]As Bem-Armadas - Versão Estendida (2013) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/As%20Bem-Armadas%20-%20Vers%C3%A3o%20Estendida%20-%202013%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]As Crônicas de Nárnia III - A Viagem do Peregrino da Alvorada (2010) HD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/As%20Cr%C3%B4nicas%20de%20N%C3%A1rnia%20III%20-%20A%20Viagem%20do%20Peregrino%20da%20Alvorada%20-%202010%20-%20720p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]As Golpistas (2019) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/As%20Golpistas%20-%202019%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]As Incríveis Histórias de Max e Léon (2018) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/As%20Incr%C3%ADveis%20Hist%C3%B3rias%20de%20Max%20e%20L%C3%A9on%20-%202018%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]As Mil Palavras (2012) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/As%20Mil%20Palavras%20-%202012%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]As Viagens de Gulliver (2010) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/As%20Viagens%20de%20Gulliver%20-%202010%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]As Aventuras De Um Virgem (2010[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/As.Aventuras.De.Um.Virgem.2010.HMAX.WEB-DL.DD5.1.H264.Dual-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Assassination Games (2011) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Assassination.Games.2011.1080p.REMUX.BluRay.AVC.DTS-HD.MA.5.1.DUAL-ASM.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Assassinato no Expresso do Oriente (2018) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Assassinato%20no%20Expresso%20do%20Oriente%20-%202018%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Barbie A Sereia Das Pérolas (2014) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Barbie.A.Sereia.Das.P%C3%A9rolas.2014.1080p.HMAX.WEB-DL.DD2.0.H264.Dual-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Barbie E O Portal Secreto (2014) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Barbie.E.O.Portal.Secreto.2014.1080p.HMAX.WEB-DL.DD2.0.H264.Dual-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Batman O Cavaleiro das Trevas Parte 1  (2012) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Batman.O.Cavaleiro.das.Trevas.Parte%201..2012.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Baywatch - S O S  Malibu (Sem Censura) (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Baywatch%20-%20S.O.S.%20Malibu%20(Sem%20Censura)%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Bekas - Para o Alto e Avante (2012) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Bekas%20-%20Para%20o%20Alto%20e%20Avante%20-%202012%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Bem Vindo À Selva (2014) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Bem%20Vindo%20%C3%80%20Selva%20-%202014%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Bem-vindos a Marwen (2018) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Bem-vindos%20a%20Marwen%20-%202018%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Birdman (2014) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Birdman%20-%202014%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Blade Runner (2049 (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Blade%20Runner%202049%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Bohemian Rhapsody (2018) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Bohemian%20Rhapsody%20-%202018%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Boulevard (2015) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Boulevard%20-%202015%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Bourne, Jason Bourne (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Bourne,%20Jason%20Bourne%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Bourne, O Legado Bourne (2012) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Bourne,%20O%20Legado%20Bourne%20-%202012%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Brahman Naman (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Brahman%20Naman%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Brian Banks - Um Sonho Interrompido (2019) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Brian%20Banks%20-%20Um%20Sonho%20Interrompido%20-%202019%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Bright (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Bright%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Bucky Larson Dotado Para Brilhar (2011) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Bucky%20Larson%20Dotado%20Para%20Brilhar%20-%202011%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Busca Alucinante (2014) HD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Busca%20Alucinante%20-%202014%20-%20720p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Caçada Brutal (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Ca%C3%A7ada%20Brutal%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Caçadores de Obras-Primas (2014) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Ca%C3%A7adores%20de%20Obras-Primas%20-%202014%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Cada Um Tem A Gêmea Que Merece (2011) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Cada%20Um%20Tem%20A%20G%C3%AAmea%20Que%20Merece%20-%202011%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Cães de Guerra (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/C%C3%A3es%20de%20Guerra%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Café Society (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Caf%C3%A9%20Society%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Capitão Fantástico (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Capit%C3%A3o%20Fant%C3%A1stico%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Capitão Phillips (2013) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Capit%C3%A3o%20Phillips%20-%202013%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Casa de mi Padre (2012) FHD - LEG[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Casa%20de%20mi%20Padre%20-%202012%20-%201080p%20-%20LEG.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Casamento Grego (2 (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Casamento%20Grego%202%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Cavalos Selvagens (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Cavalos%20Selvagens%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Chappie (2015) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Chappie%20-%202015%20-%201080p%20-%20H265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Chef (2014) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Chef%20-%202014%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]CHiPs, O Filme (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/CHiPs,%20O%20Filme%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Cinquenta Tons de Preto (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Cinquenta%20Tons%20de%20Preto%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Clube das Mulheres (Sem Cortes) (2011) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Clube%20das%20Mulheres%20(Sem%20Cortes)%20-%202011%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Colega De Quarto (2011) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Colega.De.Quarto.2011.1080p.HMAX.WEB-DL.DD5.1.H264.Dual-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Como Sobreviver A Um Ataque Zumbi (2015) HD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Como%20Sobreviver%20A%20Um%20Ataque%20Zumbi%20-%202015%20-%20720p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Conan, o Bárbaro (2011) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Conan,%20o%20B%C3%A1rbaro%20-%202011%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Contrabando Brilhante (2019) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Contrabando%20Brilhante%20-%202019%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Contrabando Brilhante (2019) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Contrabando.Brilhante.2019.1080p.HMAX.WEB-DL.DD5.1.H264.Dual-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Cooties - A Epidemia (2015) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Cooties%20-%20A%20Epidemia%20-%202015%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Corações de Ferro (2015) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Cora%C3%A7%C3%B5es%20de%20Ferro%20-%202015%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Coringa (2019) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Coringa%20-%202019%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Correndo Atrás de um Pai (2018) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Correndo%20Atr%C3%A1s%20de%20um%20Pai%20-%202018%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Covil de Ladroes (2018) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Covil%20de%20Ladroes%20-%202018%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Cowboys & Aliens (2011) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Cowboys%20&%20Aliens%20-%202011%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Criminosos e Anjos (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Criminosos%20e%20Anjos%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Cyrus - Não Se Meta Com Minha Mãe (2010) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Cyrus%20-%20N%C3%A3o%20Se%20Meta%20Com%20Minha%20M%C3%A3e%20-%202010%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Dally E Spanky Uma Amizade Improvável (2019) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Dally.E.Spanky.Uma.Amizade.Improv%C3%A1vel.2019.1080p.HMAX.WEB-DL.DD5.1.H264.Dual-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Darrow and Darrow Associados Vestígios De Um Crime (2018) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Darrow.and.Darrow.Associados.Vest%C3%ADgios.De.Um.Crime.2018.1080p.HMAX.WEB-DL.DD5.1.H264.Dual-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Debi & Lóide (2 (2014) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Debi%20&%20L%C3%B3ide%202%20-%202014%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Delivery Macabro (2019 - Dual Áudio 5 1) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Delivery%20Macabro%20-%202019%20-%20Dual%20%C3%81udio%205.1%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]DeLorean do Motor ao Crime (Driven) (2019) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/DeLorean%20do%20Motor%20ao%20Crime%20(Driven)%20-%202019%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Descompensada (2015) HD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Descompensada%20-%202015%20-%20720p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Despedida em Grande Estilo (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Despedida%20em%20Grande%20Estilo%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Desventura do Verão (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Desventura%20do%20Ver%C3%A3o%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Diário de Um Banana (2010) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Di%C3%A1rio%20de%20Um%20Banana%20-%202010%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Diário de um Banana (2 - Rodrick é o Cara (2011[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Di%C3%A1rio%20de%20um%20Banana%202%20-%20Rodrick%20%C3%A9%20o%20Cara%20-%202011%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Diário de Um Banana 3 - Dias de Cão (2012) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Di%C3%A1rio%20de%20Um%20Banana%203%20-%20Dias%20de%20C%C3%A3o%20-%202012%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Diário de um Banana 4 - Caindo na Estrada (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Di%C3%A1rio%20de%20um%20Banana%204%20-%20Caindo%20na%20Estrada%20-%202017%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Diário de um Jornalista Bêbado (2011) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Di%C3%A1rio%20de%20um%20Jornalista%20B%C3%AAbado%20-%202011%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Difícil Decisão (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Dif%C3%ADcil.Decis%C3%A3o.2017.1080p.HMAX.WEB-DL.DD5.1.H264.Dual-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Do Jeito que Elas Querem (2018) HD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Do%20Jeito%20que%20Elas%20Querem%20-%202018%20-%20720p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Dois Caras Legais (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Dois%20Caras%20Legais%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Don Verdean (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Don%20Verdean%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Doom Annihilation (2019) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Doom%20Annihilation%20-%202019%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Dose Dupla (2013) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Dose%20Dupla%20-%202013%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Dunkirk (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Dunkirk%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Dupla Explosiva (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Dupla%20Explosiva%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Duro de Matar 5 - Um Bom Dia Para Morrer VE (2013) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Duro%20de%20Matar%205%20-%20Um%20Bom%20Dia%20Para%20Morrer%20(Estendido)%20-%202013%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Duro de Matar 5 - Um Bom Dia Para Morrer VE (2013) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Duro%20de%20Matar%205%20-%20Um%20Bom%20Dia%20Para%20Morrer%20(Estendido)%20-%202013%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Ela (2014) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Ela%20-%202014%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Ele Está de Volta (2015) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Ele%20Est%C3%A1%20de%20Volta%20-%202015%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Entrando Numa Fria Maior Ainda com A Família (2010) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Entrando%20Numa%20Fria%20Maior%20Ainda%20com%20A%20Fam%C3%ADlia%20-%202010%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Entre Facas e Segredos (2019) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Entre%20Facas%20e%20Segredos%20-%202019%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Era Uma Vez em Hollywood (2019) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Era%20Uma%20Vez%20em%20Hollywood%20-%202019%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Espírito de Lobo (2015) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Esp%C3%ADrito%20de%20Lobo%20-%202015%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Esposa de Mentirinha (2011) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Esposa%20de%20Mentirinha%20-%202011%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Esquadrão Fantasma (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Esquadr%C3%A3o%20Fantasma%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Esquadrão Suicida (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Esquadr%C3%A3o.Suicida.2016.1080p.HMAX.WEB-DL.DD5.1.x264-SiGLA.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Este é o Meu Garoto (2012) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Este%20%C3%A9%20o%20Meu%20Garoto%20-%202012%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Eu Vi a Luz (2015) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Eu%20Vi%20a%20Luz%20-%202015%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Eu, Deus e Bin Laden (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Eu,%20Deus%20e%20Bin%20Laden%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Eu, Tonya (2018) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Eu,%20Tonya%20-%202018%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Eu, Você e a Garota Que Vai Morrer (2015) HD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Eu,%20Voc%C3%AA%20e%20a%20Garota%20Que%20Vai%20Morrer%20-%202015%20-%20720p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Evereste (2015) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Evereste%20-%202015%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Família do Bagulho (2013) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Fam%C3%ADlia%20do%20Bagulho%20-%202013%20-%201080p%20-%20H265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Famosos da WEB (2016) HD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Famosos%20da%20WEB%20-%202016%20-%20720p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Férias Frustradas (2015) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/F%C3%A9rias%20Frustradas%20-%202015%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Fora do Rumo (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Fora%20do%20Rumo%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Ford v Ferrari (2019) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Ford%20v%20Ferrari%20-%202019%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Free Fire - O Tiroteio (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Free%20Fire%20-%20O%20Tiroteio%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Fúria de Titãs (2010) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/F%C3%BAria%20de%20Tit%C3%A3s%20-%202010%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Fúria de Titãs (2 (2012) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/F%C3%BAria%20de%20Tit%C3%A3s%202%20-%202012%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Fútil e Inútil (2018) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/F%C3%BAtil%20e%20In%C3%BAtil%20-%202018%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Gênios do Crime (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/G%C3%AAnios%20do%20Crime%20-%202016%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Gente Grande (2010) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Gente%20Grande%20-%202010%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Gente Grande (2 (2013) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Gente%20Grande%202%20-%202013%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Goosebumps - Monstros e Arrepios (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Goosebumps%20-%20Monstros%20e%20Arrepios%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Goosebumps (2 - Halloween Assombrado (2018) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Goosebumps%202%20-%20Halloween%20Assombrado%20-%202018%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Guardiões da Galáxia (2014) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20-%202014%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Guerra Mundial Z (Sem Cortes) (2013) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Guerra%20Mundial%20Z%20(Sem%20Cortes)%20-%202013%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Halloween Macabro (2016) HD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Halloween%20Macabro%20-%202016%20-%20720p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Handsome - Um Filme de Mistério Netflix (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Handsome%20-%20Um%20Filme%20de%20Mist%C3%A9rio%20Netflix%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Hardcore Missão Extrema (2015) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Hardcore%20Miss%C3%A3o%20Extrema%20-%202015%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Harry Potter e as Relíquias da Morte - Parte 1 (2010) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Harry%20Potter%20e%20as%20Rel%C3%ADquias%20da%20Morte%20-%20Parte%201%20-%202010%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Harry Potter e as Relíquias da Morte - Parte 2 (2011) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Harry%20Potter%20e%20as%20Rel%C3%ADquias%20da%20Morte%20-%20Parte%202%20-%202011%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Harry Potter VII E As Relíquias da Morte - Parte 1 (2010) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Harry%20Potter%20VII%20E%20As%20Rel%C3%ADquias%20da%20Morte%20-%20Parte%201%20-%202010%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Harry Potter VIII E As Relíquias da Morte - Parte 2 (2011) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Harry%20Potter%20VIII%20E%20As%20Rel%C3%ADquias%20da%20Morte%20-%20Parte%202%20-%202011%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Herança de Sangue (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Heran%C3%A7a%20de%20Sangue%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Hércules VE (2014) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/H%C3%A9rcules%20(Estendido)%20-%202014%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Histórias Cruzadas (2011) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Hist%C3%B3rias%20Cruzadas%20-%202011%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Hitchcock (2012) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Hitchcock%20-%202012%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Idas e Vindas do Amor (2010) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Idas%20e%20Vindas%20do%20Amor%20-%202010%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Ilha do Medo (2010) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Ilha%20do%20Medo%20-%202010%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Inatividade Paranormal (2 (2014) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Inatividade%20Paranormal%202%20-%202014%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Independence Day - O Ressurgimento (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Independence%20Day%20-%20O%20Ressurgimento%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Inferno (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Inferno%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Interestelar (2015) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Interestelar%20-%202015%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Intocáveis (2011) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Intoc%C3%A1veis%20-%202011%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Invasão de Privacidade (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Invas%C3%A3o%20de%20Privacidade%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Invencível (2015) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Invenc%C3%ADvel%20-%202015%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Irmão de Espião (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Irm%C3%A3o%20de%20Espi%C3%A3o%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Irmão Natureza (2016) HD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Irm%C3%A3o%20Natureza%20-%202016%20-%20720p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]JFK, A História Não Contada (2013) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/JFK,%20A%20Hist%C3%B3ria%20N%C3%A3o%20Contada%20-%202013%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Jogo Sujo (2014) HD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Jogo%20Sujo%20-%202014%20-%20720p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]John Carter - Entre dois Mundos (2012) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/John%20Carter%20-%20Entre%20dois%20Mundos%20-%202012%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]John Carter - Entre Dois Mundos (2012) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/John%20Carter%20-%20Entre%20Dois%20Mundos%20-%202012%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]John Wick - De Volta ao Jogo (2014) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/John%20Wick%20-%20De%20Volta%20ao%20Jogo%20-%202014%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]John Wick (2 - Um Novo Dia para Matar (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/John%20Wick%202%20-%20Um%20Novo%20Dia%20para%20Matar%20-%202017%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]John Wick 3 - Parabellum (2019) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/John%20Wick%203%20-%20Parabellum%20-%202019%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Johnny English 3 0 (2018) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Johnny%20English%203.0%20-%202018%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Joias Brutas (Uncut Gems) (2019) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Joias%20Brutas%20(Uncut%20Gems)%20-%202019%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Jovens, Loucos e Mais Rebeldes (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Jovens,%20Loucos%20e%20Mais%20Rebeldes%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Jumanji Bem-Vindo à Selva (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Jumanji%20Bem-Vindo%20à%20Selva%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Juntos e Misturados (2014) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Juntos%20e%20Misturados%20-%202014%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Jurassic World - O Mundo dos Dinossauros (2015) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Jurassic%20World%20-%20O%20Mundo%20dos%20Dinossauros%20-%202015%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Jurassic World - Reino Ameaçado (2018) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Jurassic%20World%20-%20Reino%20Amea%C3%A7ado%20-%202018%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Kaiser O Jogador De Futebol Que Nunca Jogou (2018) HD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Kaiser.O.Jogador.De.Futebol.Que.Nunca.Jogou.2018.720p.GLBO.WEB-DL.AAC2.0.H.264.Nacional-C76.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Keanu (2016) HD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Keanu%20-%202016%20-%20720p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Kickboxer Vingança (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Kickboxer%20Vingan%C3%A7a%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]King of Fighters - A Batalha Final (2010) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/King%20of%20Fighters%20-%20A%20Batalha%20Final%20-%202010%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Kong - A Ilha da Caveira (2017) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Kong%20-%20A%20Ilha%20da%20Caveira%20-%202017%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Lá Vêm os Pais (2018) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/L%C3%A1%20V%C3%AAm%20os%20Pais%20-%202018%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Larry Crowne - O Amor Está de Volta (2011) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Larry%20Crowne%20-%20O%20Amor%20Est%C3%A1%20de%20Volta%20-%202011%20%20-%201080p%20-%20HEVC%20-%20265.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Larry Gaye - O Comissário de Bordo Renegado (2016) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Larry%20Gaye%20-%20O%20Comiss%C3%A1rio%20de%20Bordo%20Renegado%20-%202016%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Lobo de Wall Street (2013) FHD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Lobo%20de%20Wall%20Street%20-%202013%20-%201080p.mkv
+#EXTINF:-1 tvg-logo="CAPA",[COLOR orange][B]S-AV[COLOR yellow] -> [COLOR white]Looking, O Filme (2016) HD[/B][/COLOR]
+https://luminart.ls.lsnew.workers.dev/6:/Filmes/Filmes%20-%20HD%20e%20Full%20HD/Filmes%20HD%20-%202010/Looking,%20O%20Filme%20-%202016%20-%20720p.mkv
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png",[COLOR black][B].[/B][/COLOR]
