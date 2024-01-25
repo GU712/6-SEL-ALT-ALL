@@ -133,6 +133,40 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "B"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKxgjNM/LS-ICONE.png" group-title="[COLOR white][B]Echo 3 (2022)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Black Bird (2022)[/B][/COLOR]",[COLOR orange][B]Black Bird[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Black Bird (2022)[/B][/COLOR]",[COLOR orange][B]TEMPORADA 01 - HD DUB[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Black Bird (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E01[COLOR yellow] -> [COLOR white]Piloto[/B][/COLOR]
+http://acsc.cc:80/series/770770/5rUvvg/164259.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Black Bird (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E02[COLOR yellow] -> [COLOR white]Estamos chegando, Pai Abraão[/B][/COLOR]
+http://acsc.cc:80/series/770770/5rUvvg/164260.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Black Bird (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E03[COLOR yellow] -> [COLOR white]Com uma mão na frente e outra atrás[/B][/COLOR]
+http://acsc.cc:80/series/770770/5rUvvg/167676.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Black Bird (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E04[COLOR yellow] -> [COLOR white]Qual é o nome dela mesmo?[/B][/COLOR]
+http://acsc.cc:80/series/770770/5rUvvg/167677.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Black Bird (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E05[COLOR yellow] -> [COLOR white]O lugar onde eu jazo[/B][/COLOR]
+http://acsc.cc:80/series/770770/5rUvvg/168742.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xG94Dc7LJ0NEYZ0hGTNnHuMKugl.jpg" group-title="[COLOR white][B]Black Bird (2022)[/B][/COLOR]",[COLOR orange][B]S2-T01E06[COLOR yellow] -> [COLOR white]Você prometeu[/B][/COLOR]
+http://acsc.cc:80/series/770770/5rUvvg/169301.mp4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Black Bird (2022)[/B][/COLOR]",[COLOR black][B].[/B][/COLOR]
+LINKDOFILME					
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Black Bird (2022)[/B][/COLOR]",[COLOR orange][B]O VIDEO NAO ABRIU ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Black Bird (2022)[/B][/COLOR]",[COLOR orange][B]QUER ASSISTIR OUTRA TEMPORADA ?[/B][/COLOR]
+LINKDOFILME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Black Bird (2022)[/B][/COLOR]",[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]
+LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "C"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
