@@ -1,595 +1,715 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qnTS1Gx/NVLS-SERV-2.png" group-title="[COLOR orange][B]NOVELAS NO SERVER 2[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-NUMERAL			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "A"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "B"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "C"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-				
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]TEMP 01 (2009) 230 EPs - SD DUB[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E001[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58355.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E002[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58356.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E003[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58357.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E004[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58358.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E005[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58359.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E006[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58360.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E007[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58361.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E008[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58362.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E009[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58363.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E010[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58364.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E011[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58365.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E012[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58366.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E013[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58367.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E014[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58368.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E015[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58369.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E016[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58370.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E017[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58371.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E018[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58372.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E019[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58373.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E020[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58374.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E021[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58375.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E022[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58376.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E023[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58377.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E024[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58378.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E025[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58379.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E026[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58380.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E027[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58381.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E028[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58382.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E029[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58383.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E030[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58384.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E031[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58385.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E032[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58386.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E033[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58387.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E034[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58388.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E035[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58389.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E036[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58390.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E037[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58391.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E038[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58392.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E039[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58393.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E040[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58394.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E041[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58395.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E042[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58396.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E043[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58397.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E044[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58398.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E045[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58399.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E046[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58400.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E047[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58401.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E048[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58402.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E049[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58403.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E050[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58404.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E051[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58405.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E052[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58406.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E053[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58407.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E054[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58408.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E055[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58409.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E056[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58410.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E057[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58411.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E058[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58412.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E059[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58413.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E060[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58414.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E061[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58415.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E062[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58416.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E063[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58417.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E064[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58418.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E065[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58419.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E066[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58420.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E067[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58421.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E068[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58422.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E069[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58423.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E070[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58424.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E071[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58425.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E072[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58426.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E073[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58427.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E074[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58428.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E075[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58429.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E076[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58430.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E077[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58431.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E078[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58432.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E079[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58433.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E080[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58434.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E081[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58435.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E082[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58436.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E083[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58437.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E084[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58438.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E085[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58439.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E086[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58440.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E087[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58441.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E088[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58442.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E089[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58443.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E090[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58444.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E091[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58445.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E092[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58446.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E093[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58447.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E094[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58448.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E095[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58449.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E096[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58450.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E097[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58451.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E098[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58452.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E099[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58453.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E100[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58454.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E101[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58455.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E102[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58456.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E103[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58457.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E104[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58458.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E105[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58459.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E106[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58460.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E107[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58461.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E108[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58462.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E109[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58463.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E110[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58464.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E111[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58465.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E112[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58466.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E113[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58467.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E114[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58468.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E115[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58469.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E116[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58470.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E117[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58471.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E118[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58472.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E119[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58473.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E120[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58474.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E121[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58475.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E122[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58476.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E123[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58477.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E124[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58478.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E125[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58479.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E126[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58480.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E127[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58481.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E128[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58482.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E129[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58483.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E130[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58484.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E131[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58485.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E132[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58486.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E133[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58487.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E134[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58488.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E135[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58489.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E136[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58490.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E137[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58491.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E138[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58492.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E139[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58493.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E140[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58494.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E141[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58495.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E142[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58496.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E143[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58497.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E144[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58498.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E145[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58499.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E146[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58500.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E147[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58501.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E148[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58502.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E149[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58503.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E150[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58504.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E151[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58505.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E152[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58506.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E153[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58507.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E154[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58508.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E155[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58509.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E156[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58510.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E157[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58511.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E158[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58512.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E159[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58513.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E160[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58514.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E161[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58515.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E162[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58516.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E163[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58517.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E164[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58518.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E165[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58519.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E166[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58520.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E167[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58521.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E168[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58522.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E169[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58523.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E170[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58524.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E171[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58525.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E172[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58526.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E173[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58527.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E174[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58528.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E175[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58529.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E176[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58530.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E177[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58531.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E178[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58532.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E179[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58533.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E180[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58534.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E181[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58535.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E182[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58536.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E183[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58537.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E184[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58538.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E185[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58539.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E186[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58540.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E187[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58541.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E188[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58542.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E189[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58543.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E190[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58544.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E191[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58545.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E192[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58546.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E193[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58547.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E194[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58548.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E195[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58549.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E196[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58550.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E197[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58551.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E198[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58552.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E199[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58553.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E200[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58554.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E201[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58555.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E202[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58556.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E203[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58557.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E204[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58558.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E205[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58559.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E206[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58560.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E207[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58561.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E208[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58562.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E209[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58563.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E210[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58564.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E211[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58565.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E212[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58566.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E213[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58567.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E214[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58568.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E215[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58569.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E216[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58570.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E217[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58571.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E218[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58572.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E219[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58573.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E220[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58574.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E221[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58575.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E222[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58576.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E223[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58577.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E224[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58578.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E225[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58579.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E226[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58580.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E227[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58581.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E228[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58582.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E229[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58583.mp4
-#EXTINF:-1 tvg-logo="http://conexaoonline.top/images/dae9b0a320d8880082e33711bc075d69.jpg" group-title="[COLOR white][B]Caras e Bocas(2009)[/B][/COLOR]",[COLOR orange][B]S2-T01E230[COLOR yellow] -> [COLOR white]Caras e Bocas[/B][/COLOR]
-http://acsc.cc:80/series/970833/5ttvMV/58584.mp4
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "D"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "E"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "F"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "G"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "H"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "I"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "J"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "K"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "L"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "M"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "N"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "O"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "P"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "Q"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "R"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "S"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "T"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "U"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "V"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "X"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "Y"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "W"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "Z"				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]TEMP 01 (2004) 167 EPs - SD DUB[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart>
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item><title>[COLOR orange][B]S2-E001[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58187.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E002[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58188.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E003[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58189.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E004[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58190.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E005[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58191.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E006[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58192.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E007[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58193.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E008[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58194.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E009[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58195.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E010[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58196.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E011[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58197.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E012[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58198.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E013[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58199.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E014[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58200.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E015[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58201.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E016[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58202.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E017[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58203.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E018[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58204.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E019[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58205.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E020[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58206.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E021[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58207.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E022[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58208.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E023[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58209.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E024[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58210.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E025[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58211.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E026[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58212.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E027[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58213.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E028[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58214.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E029[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58215.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E030[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58216.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E031[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58217.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E032[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58218.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E033[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58219.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E034[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58220.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E035[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58221.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E036[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58222.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E037[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58223.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E038[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58224.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E039[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58225.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E040[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58226.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E041[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58227.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E042[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58228.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E043[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58229.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E044[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58230.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E045[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58231.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E046[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58232.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E047[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58233.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E048[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58234.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E049[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58235.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E050[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58236.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E051[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58237.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E052[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58238.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E053[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58239.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E054[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58240.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E055[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58241.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E056[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58242.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E057[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58243.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E058[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58244.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E059[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58245.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E060[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58246.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E061[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58247.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E062[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58248.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E063[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58249.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E064[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58250.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E065[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58251.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E066[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58252.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E067[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58253.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E068[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58254.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E069[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58255.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E070[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58256.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E071[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58257.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E072[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58258.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E073[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58259.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E074[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58260.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E075[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58261.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E076[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58262.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E077[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58263.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E078[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58264.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E079[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58265.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E080[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58266.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E081[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58267.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E082[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58268.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E083[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58269.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E084[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58270.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E085[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58271.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E086[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58272.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E087[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58273.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E088[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58274.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E089[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58275.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E090[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58276.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E091[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58277.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E092[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58278.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E093[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58279.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E094[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58280.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E095[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58281.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E096[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58282.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E097[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58283.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E098[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58284.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E099[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58285.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E100[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58286.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E101[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58287.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E102[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58288.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E103[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58289.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E104[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58290.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E105[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58291.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E106[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58292.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E107[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58293.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E108[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58294.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E109[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58295.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E110[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58296.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E111[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58297.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E112[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58298.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E113[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58299.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E114[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58300.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E115[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58301.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E116[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58302.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E117[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58303.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E118[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58304.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E119[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58305.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E120[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58306.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E121[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58307.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E122[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58308.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E123[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58309.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E124[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58310.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E125[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58311.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E126[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58312.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E127[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58313.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E128[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58314.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E129[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58315.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E130[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58316.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E131[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58317.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E132[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58318.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E133[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58319.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E134[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58320.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E135[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58321.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E136[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58322.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E137[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58323.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E138[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58324.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E139[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58325.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E140[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58326.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E141[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58327.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E142[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58328.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E143[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58329.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E144[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58330.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E145[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58331.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E146[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58332.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E147[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58333.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E148[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58334.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E149[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58335.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E150[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58336.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E151[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58337.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E152[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58338.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E153[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58339.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E154[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58340.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E155[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58341.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E156[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58342.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E157[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58343.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E158[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58344.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E159[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58345.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E160[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58346.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E161[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58347.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E162[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58348.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E163[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58349.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E164[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58350.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E165[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58351.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E166[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58352.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
+
+<item><title>[COLOR orange][B]S2-E167[COLOR yellow] -> [COLOR white]Cabocla[/B][/COLOR]</title>
+<link>http://acsc.cc:80/series/970833/5ttvMV/58353.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/eLZuR2zrTAkPnPJaj7L4Ievc477.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/60U3KQzCcNKOdk1ADnQO8xYZaXv.jpg</fanart></item>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR black][B].[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]NAO ENCONTROU O QUE BUSCAVA ?[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bv1FXTF/LS-ICONE.png" group-title="[COLOR orange][B]CONTATE O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]",[COLOR orange][B]RETORNE[/B][/COLOR]
-LINKDOFILME
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<item>
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>
+<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
