@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/222x/6e/72/b2/6e72b2589de1d422b69012e40eff2c15.jpg" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/7EYPvap9pmjrwI1uOjacipcNZK1.jpg" group-title="[COLOR white][B] ADULTOS - ERÓTICOS [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
@@ -7,9 +10,6 @@ https://ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/LS-La.Iniziazione.1986.HD.LEGFIX.m
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hpB0oLQz9nKpopXYBYRmoCKSN7V.jpg" group-title="[COLOR white][B] ADULTOS - ERÓTICOS [/B][/COLOR]",[COLOR orange][B]SERVER LS [COLOR yellow]-> [COLOR white]A Vingança de Jennifer (1978)[/B][/COLOR]
 https://ls.lsnew.workers.dev/0:/FLMS/9CRDR-FM/A.Vingansa.de.Jennifer-1978.FHD.LEG.mp4
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/222x/6e/72/b2/6e72b2589de1d422b69012e40eff2c15.jpg" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
-LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/222x/6e/72/b2/6e72b2589de1d422b69012e40eff2c15.jpg" group-title="[COLOR white][B] ADULTOS - SERVER 2 [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
